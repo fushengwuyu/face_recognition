@@ -11,4 +11,6 @@ resnet算法，也可以使用facenet等算法
 3. 近邻检索
 Hnswlib库，也可以尝试使用fassi，annoy等，性能评估参考：https://zhuanlan.zhihu.com/p/37381294
 
-4. 相似度阈值，0.363（0.637）
+4. yunnet+sfce
+   
+5. 相似度阈值，0.363（0.637）
